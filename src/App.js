@@ -178,6 +178,4 @@ function App() {
 }
 
 export default App;
-// 914 474 015
-
 
